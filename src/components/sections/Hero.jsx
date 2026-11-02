@@ -25,7 +25,7 @@ export default function Hero() {
     <section className="relative isolate overflow-hidden bg-[#faf8f4] pt-24 lg:pt-32">
       <div className="absolute inset-0">
         <img
-          src="https://bangucell.com.br/wp-content/uploads/2025/11/19_08_2021-16_36_19-1.png"
+          src="https://images.pexels.com/photos/31884550/pexels-photo-31884550.jpeg"
           alt=""
           className="h-full w-full object-cover"
         />
@@ -138,7 +138,7 @@ export default function Hero() {
 
             <div className="overflow-hidden rounded-[34px] border border-white/70 bg-white p-3 shadow-[0_35px_80px_rgba(15,23,42,0.18)]">
               <img
-                src="https://bangucell.com.br/wp-content/uploads/2025/11/19_08_2021-16_36_19-1.png"
+                src="https://images.pexels.com/photos/31884550/pexels-photo-31884550.jpeg"
                 alt="O'Phone Narbonne"
                 className="h-[620px] w-full rounded-[26px] object-cover"
               />
